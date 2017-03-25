@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="ElasticPrep" />
+        <module name="parth" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ElasticPrep" target="1.5" />
+      <module name="parth" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
